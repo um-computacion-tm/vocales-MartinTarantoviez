@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/95SjdgC7)
+# MartinTarantoviez
+Martin Tarantoviez
+# Descripcion
+Este codigo transforma las palabras mayusculas en minusculas y despues las cuenta cada vocal con un contador de vocales
+
+# Como ejecutar:
+para ejecutar se ustiliza el comando estando en la carpeta python3 "nombre del archivo"
